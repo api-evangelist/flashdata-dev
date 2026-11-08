@@ -1,4 +1,4 @@
-# flashdata-dev
+# FlashData
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,145 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-flashdata-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://flashdata.dev/
+FlashData provides a suite of data services APIs, including Google Search, YouTube Data, and YouTube Download capabilities. Their platform enables developers to integrate web search, video metadata retrieval, and bulk media downloading into applications, with flexible pricing and cloud storage integration. The company offers extensive documentation, quickstart guides, and support resources to help users get started quickly.
+
+**Areas:** Search API · Video Metadata · Media Download · Cloud Storage · Developer Tools · AI Agents
+
+## FlashData on APIs.io
+
+Everything profiled for FlashData is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flashdata-dev/](https://apis.io/providers/flashdata-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [FlashData Account API](https://apis.io/apis/flashdata-dev/flashdata-dev-account-api/) — The Account API from FlashData — 5 operation(s) for account.
+- [FlashData Agent Connections API](https://apis.io/apis/flashdata-dev/flashdata-dev-agent-connections-api/) — The Agent Connections API from FlashData — 12 operation(s) for agent connections.
+- [FlashData API Keys API](https://apis.io/apis/flashdata-dev/flashdata-dev-api-keys-api/) — The API Keys API from FlashData — 5 operation(s) for api keys.
+- [FlashData Auth API](https://apis.io/apis/flashdata-dev/flashdata-dev-auth-api/) — The Auth API from FlashData — 15 operation(s) for auth.
+- [FlashData Billing API](https://apis.io/apis/flashdata-dev/flashdata-dev-billing-api/) — The Billing API from FlashData — 7 operation(s) for billing.
+- [FlashData Bulk Jobs API](https://apis.io/apis/flashdata-dev/flashdata-dev-bulk-jobs-api/) — The Bulk Jobs API from FlashData — 7 operation(s) for bulk jobs.
+- [FlashData Catalog API](https://apis.io/apis/flashdata-dev/flashdata-dev-catalog-api/) — The Catalog API from FlashData — 3 operation(s) for catalog.
+- [FlashData Credits API](https://apis.io/apis/flashdata-dev/flashdata-dev-credits-api/) — The Credits API from FlashData — 7 operation(s) for credits.
+- [FlashData Data Queries API](https://apis.io/apis/flashdata-dev/flashdata-dev-data-queries-api/) — The Data Queries API from FlashData — 3 operation(s) for data queries.
+- [FlashData Delivery API](https://apis.io/apis/flashdata-dev/flashdata-dev-delivery-api/) — The Delivery API from FlashData — 3 operation(s) for delivery.
+- [FlashData Jobs API](https://apis.io/apis/flashdata-dev/flashdata-dev-jobs-api/) — The Jobs API from FlashData — 3 operation(s) for jobs.
+- [FlashData Onboarding API](https://apis.io/apis/flashdata-dev/flashdata-dev-onboarding-api/) — The Onboarding API from FlashData — 1 operation(s) for onboarding.
+- [FlashData Overview API](https://apis.io/apis/flashdata-dev/flashdata-dev-overview-api/) — The Overview API from FlashData — 1 operation(s) for overview.
+- [FlashData Playground API](https://apis.io/apis/flashdata-dev/flashdata-dev-playground-api/) — The Playground API from FlashData — 2 operation(s) for playground.
+- [FlashData System API](https://apis.io/apis/flashdata-dev/flashdata-dev-system-api/) — The System API from FlashData — 2 operation(s) for system.
+- [FlashData Trial Credits API](https://apis.io/apis/flashdata-dev/flashdata-dev-trial-credits-api/) — The Trial Credits API from FlashData — 1 operation(s) for trial credits.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Flashdata Dev Agentic Access](https://apis.io/agentic-access/flashdata-dev/flashdata-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AsyncQuery_youtube_captions](https://apis.io/schemas/flashdata-dev/flashdata-dev-async-query-youtube-captions/)
+- [AsyncQuery_youtube_download](https://apis.io/schemas/flashdata-dev/flashdata-dev-async-query-youtube-download/)
+- [AsyncQuery_youtube_search](https://apis.io/schemas/flashdata-dev/flashdata-dev-async-query-youtube-search/)
+- [AsyncQuery_youtube_search_extended](https://apis.io/schemas/flashdata-dev/flashdata-dev-async-query-youtube-search-extended/)
+- [AsyncQuery_youtube_transcript](https://apis.io/schemas/flashdata-dev/flashdata-dev-async-query-youtube-transcript/)
+- [CreateBulkJobRequest](https://apis.io/schemas/flashdata-dev/flashdata-dev-create-bulk-job-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Flashdata Dev Context](https://apis.io/jsonld/flashdata-dev/flashdata-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [FlashData API Rules](https://apis.io/rules/flashdata-dev/flashdata-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Flashdata Dev Authentication](https://apis.io/security/flashdata-dev/flashdata-dev-authentication/)
+- [Flashdata Dev Domain Security](https://apis.io/security/flashdata-dev/flashdata-dev-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Flashdata Dev Plans Pricing](https://apis.io/plans/flashdata-dev/flashdata-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://flashdata.dev/)
+- [Documentation](https://flashdata.dev/docs)
+- [API reference](https://flashdata.dev/docs/reference)
+- [Pricing](https://flashdata.dev/pricing)
+- [Sign up](https://flashdata.dev/signup)
+- [Changelog](https://flashdata.dev/docs/changelog)
+- [Blog](https://flashdata.dev/blog)
+- [Terms of service](https://flashdata.dev/legal/terms)
+- [Privacy policy](https://flashdata.dev/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 59.5** — strong · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 60.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 73.2 |
+
+**Agent readiness 58.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/flashdata-dev/](https://apis.io/providers/flashdata-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FlashData: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flashdata-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
